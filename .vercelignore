@@ -1,0 +1,11 @@
+.openai
+.git
+.sites-runtime
+.env*
+node_modules
+dist
+*.pdf
+README.md
+PROJECT-SOURCES.md
+src/futuristic.css
+src/ProjectGraphic.jsx
